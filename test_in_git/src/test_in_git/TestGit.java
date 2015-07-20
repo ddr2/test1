@@ -26,16 +26,7 @@
  * @since    JDK 1.6 
  * @see       
  */
-/** 
- * ClassName: TestGit <br/> 
- * Function: TODO ADD FUNCTION. <br/> 
- * Reason: TODO ADD REASON(可选). <br/> 
- * date: 2015年4月21日 下午1:56:54 <br/> 
- * 
- * @author ddr 
- * @version  
- * @since JDK 1.6 
- */
+
 public class TestGit {
 
 }
